@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88ded030-3720-4965-b876-ba0bd3128b68" name="Default Changelist" comment="" />
+    <list default="true" id="88ded030-3720-4965-b876-ba0bd3128b68" name="Default Changelist" comment="Eventary first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +50,16 @@
       <workItem from="1620570457784" duration="9463000" />
       <workItem from="1620636935291" duration="20986000" />
       <workItem from="1620673650618" duration="4071000" />
-      <workItem from="1620743019896" duration="7572000" />
+      <workItem from="1620743019896" duration="8118000" />
     </task>
+    <task id="LOCAL-00001" summary="Eventary first">
+      <created>1620762721844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620762721844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eventary first" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eventary first" />
   </component>
 </project>
