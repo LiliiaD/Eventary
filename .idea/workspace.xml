@@ -50,7 +50,9 @@
       <workItem from="1620570457784" duration="9463000" />
       <workItem from="1620636935291" duration="20986000" />
       <workItem from="1620673650618" duration="4071000" />
-      <workItem from="1620743019896" duration="8118000" />
+      <workItem from="1620743019896" duration="8229000" />
+      <workItem from="1633539123047" duration="2000" />
+      <workItem from="1633539270077" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Eventary first">
       <created>1620762721844</created>
@@ -75,6 +77,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eventary first" />
